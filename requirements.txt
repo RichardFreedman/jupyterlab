@@ -4,7 +4,7 @@ jupyterlab~=4.0.11
 notebook~=7.0.7
 
 # intervals
-crim_intervals==2.0.17
+git+https://github.com/HCDigitalScholarship/intervals.git@rich_dev-24
 
 
 # Python kernel (optional)
